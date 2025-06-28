@@ -1,3 +1,5 @@
+package domain1;
+
 public class WorkingWithInstances {
     public static void main(String[] args) {
        Product p1 = new Product("Gold Blend", "Tea", 15.99); 

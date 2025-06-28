@@ -1,3 +1,5 @@
+package domain1;
+
 public class VariableScope {
     public static void main(String[] args) {
         String county = "Laois";

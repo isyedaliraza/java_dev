@@ -1,3 +1,5 @@
+package domain1;
+
 /**
  * In java we have three types of comments:
  * 1. Single line comments
